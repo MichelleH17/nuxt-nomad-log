@@ -1,4 +1,4 @@
-# Nuxt Noma Log
+# Nuxt Nomad Log
 
 A full stack application built with Nuxt that allows users to keep track of all the places they've been.
 
